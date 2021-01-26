@@ -9,7 +9,7 @@ Some of the development code is uploaded here. Also, here are some screenshots o
 
 Mobile View               |  Web View
 :-------------------------:|:-------------------------:
-<img src="https://i.imgur.com/NgWt33e.png" height="435">  |  <img src="https://i.imgur.com/BMQ1izl.png" width="800">
+<img src="https://i.imgur.com/NgWt33e.png" height="430">  |  <img src="https://i.imgur.com/BMQ1izl.png" width="800">
 
 <br>
 
